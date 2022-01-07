@@ -1,11 +1,7 @@
-# John Doe
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+# Sandy Om'Iniabohs
+*Data Analyst | Data Scientist*
 
-# Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
-
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+# [Project 1: Gender Equality in Education](https://github.com/Tech4Dev-Bootcamp/Nov-21-Gender_Equality/blob/0e125ff723a540e28c60fecb4bbf21c32851d5f7/GROUP_3_COHORT_DSAI_PROJECT%20(1)%20(1).ipynb)
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
 * **Python libraries used:** Streamlit, Huggingface, TensorFlow
